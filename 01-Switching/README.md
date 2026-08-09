@@ -1,4 +1,4 @@
-Lab: VLAN Configuration
+Lab: Switching Configuration
 
 Objective
 - Memahami konsep VLAN
